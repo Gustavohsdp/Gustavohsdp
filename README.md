@@ -14,3 +14,5 @@
 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Gustavohsdp&show_icons=true&icon_color=7159c1&text_color=999999&title_color=111111" alt="Sup3r-Us3r" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavohsdp&layout=compact)](https://github.com/Gustavohsdp/github-readme-stats)
