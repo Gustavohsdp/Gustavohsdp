@@ -8,4 +8,4 @@
 
 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Gustavohsdp&show_icons=true&icon_color=7159c1&text_color=999999&title_color=29292e" alt="Sup3r-Us3r" /></p>
+<p align="left" color="#29292e"><img src="https://github-readme-stats.vercel.app/api?username=Gustavohsdp&show_icons=true&icon_color=7159c1&text_color=999999&title_color=29292e" alt="Gustavohsdp" /></p>
