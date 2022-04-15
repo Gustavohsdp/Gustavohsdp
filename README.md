@@ -1,7 +1,7 @@
 # Hey, Devs! I'm Gustavo Henrique 👋
 
 - 🔭 I’m currently working as intern software developer [@Dash](https://www.dashsolutions.com.br/)
-- 📚 UFOP - information systems 2º time course
+- 📚 UFOP - information systems
 - 🌱 I’m learning about React, React Native and Nodejs
 - ⚡ Enthusiast of the best web & mobile development technologies.
 
